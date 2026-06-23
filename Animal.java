@@ -1,6 +1,6 @@
 package Abstraction;
 
-public abstract class Animal {
+public abstract class Animal {  // Create abstract class
 
     public void eat(){
         System.out.println("I am eating");
