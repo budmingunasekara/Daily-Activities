@@ -10,7 +10,7 @@ public abstract class Animal {
 }
 
 
-class Dog extends Animal{
+class Dog extends Animal{ // Called to parent class
 
     public void makeSound(){
         System.out.println("Woof Woof");
